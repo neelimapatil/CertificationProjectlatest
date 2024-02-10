@@ -1,0 +1,26 @@
+INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-24 18:46:05 INFO  TestBase:131 - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-24 18:46:26 INFO  SignUpTest:64 - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-24 18:48:06 INFO  TestBase:133 - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-24 18:48:27 INFO  SignUpTest:64 - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-24 18:49:30 INFO  TestBase:133 - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-24 18:49:50 INFO  SignUpTest:64 - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-24 18:50:38 ERROR TestBase:138 - Failed to signup: unexpected alert open: {Alert text : Please fill out Username and Password.}
+  (Session info: chrome=120.0.6099.218): Please fill out Username and Password.
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [77a45d4cfc930fc90665c50c03de4548, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.218, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57656}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57656/devtoo..., se:cdpVersion: 120.0.6099.218, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 77a45d4cfc930fc90665c50c03de4548
+2024-01-24 18:51:00 INFO  SignUpTest:64 - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-24 18:51:57 INFO  TestBase:133 - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-24 18:52:18 INFO  SignUpTest:64 - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-25 12:26:06 INFO  TestBase:133 - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-25 12:26:30 INFO  SignUpTest:64 - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-25 12:32:26 INFO  TestBase:133 - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-25 12:32:47 INFO  SignUpTest:64 - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-25 12:36:10 INFO  TestBase:133 - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-25 12:36:31 INFO  SignUpTest:64 - Status:PASS,StepNumber:1,StepName:User is on Application Page

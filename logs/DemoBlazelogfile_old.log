@@ -1,0 +1,25 @@
+2024-01-24 18:46:05,308 - stepDefinitions.TestBase -INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-24 18:46:26,337 - stepDefinitions.SignUpTest -INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-24 18:48:06,011 - stepDefinitions.TestBase -INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-24 18:48:27,506 - stepDefinitions.SignUpTest -INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-24 18:49:30,147 - stepDefinitions.TestBase -INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-24 18:49:50,724 - stepDefinitions.SignUpTest -INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-24 18:50:38,743 - stepDefinitions.TestBase -ERROR - Failed to signup: unexpected alert open: {Alert text : Please fill out Username and Password.}
+  (Session info: chrome=120.0.6099.218): Please fill out Username and Password.
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [77a45d4cfc930fc90665c50c03de4548, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.218, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57656}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57656/devtoo..., se:cdpVersion: 120.0.6099.218, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 77a45d4cfc930fc90665c50c03de4548
+2024-01-24 18:51:00,073 - stepDefinitions.SignUpTest -INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-24 18:51:57,176 - stepDefinitions.TestBase -INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-24 18:52:18,678 - stepDefinitions.SignUpTest -INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-25 12:26:06,277 - stepDefinitions.TestBase -INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-25 12:26:30,768 - stepDefinitions.SignUpTest -INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-25 12:30:45,552 - stepDefinitions.TestBase -INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-25 12:31:06,645 - stepDefinitions.SignUpTest -INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-25 12:32:26,644 - stepDefinitions.TestBase -INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-25 12:32:47,711 - stepDefinitions.SignUpTest -INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-25 12:36:10,543 - stepDefinitions.TestBase -INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
+2024-01-25 12:36:31,086 - stepDefinitions.SignUpTest -INFO - Status:PASS,StepNumber:1,StepName:User is on Application Page
